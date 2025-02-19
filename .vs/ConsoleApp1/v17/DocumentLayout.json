@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mator\\source\\repos\\Console-Game2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mator\\source\\repos\\console-game2\\consoleapp1\\classes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203A386-3640-4C04-A9D3-92E550E8A18D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\User.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\User.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:56:00.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Reward.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Reward.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Reward.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Reward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:55:27.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Level.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Level.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Level.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:54:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Boss.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Boss.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Boss.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:54:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Opponent.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Opponent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Opponent.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Opponent.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Opponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:53:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Hero.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Hero.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Hero.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:53:15.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Character.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Character.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Character.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:52:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\classes\\Game.cs",
+              "ToolTip": "C:\\Users\\mator\\source\\repos\\Console-Game2\\ConsoleApp1\\classes\\Game.cs",
+              "RelativeToolTip": "ConsoleApp1\\classes\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:51:21.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
